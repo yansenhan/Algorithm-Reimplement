@@ -1,5 +1,7 @@
 # 统计学习方法
 
+In this part, I will reimplement the algorithms from scratch and then learn the usage of corresponding algorithms in sklearn packages.
+
 | 章节 | 代码 |
 |:----|:---:|
 |Ch02 感知机 | |
