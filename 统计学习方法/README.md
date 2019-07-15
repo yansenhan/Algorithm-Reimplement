@@ -5,7 +5,7 @@ In this part, I will reimplement the algorithms from scratch and then learn the 
 | 章节 | 代码 | Sklearn | 
 |:----|:----:| :-------:|
 |Ch02 感知机 |[Link](./ch02%20Perceptron) | [Sklearn Perceptron](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)|
-|Ch03 k近邻法 | |
+|Ch03 k近邻法 | [Link](./ch03_KNN/kdTree.ipynb) | [Sklearn KNN](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)|
 |Ch04 朴素贝叶斯法 | |
 |Ch05 决策树 | |
 |Ch06 Logistic回归与最大熵模型 | |
